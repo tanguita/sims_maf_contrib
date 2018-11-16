@@ -5,6 +5,7 @@ from .seasonLengthMetric import *
 from .campaignLengthMetric import *
 from .meanNightSeparationMetric import *
 from .tdcMetric import *
+from .medianNightSeparationMetric import *
 
 from .TripletMetric import *
 
